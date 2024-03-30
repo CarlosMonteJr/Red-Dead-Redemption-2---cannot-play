@@ -14,5 +14,9 @@ When all done, right click Rockstar Launcher, which you should have a Desktop Sh
 If the game still has an issue launching.
 Go to here and delete the SYSTEM.XML file and SGA files.
 Documents > Rockstar Games > Red Dead Redemption 2 > Settings
+%USERPROFILE%\Documents\Rockstar Games\Red Dead Redemption 2\Settings
+or
+%USERPROFILE%\DocumentOs\Rockstar Games\Red Dead Redemption 2\Settings
+Or rename the directorie Settings -> Settings.old
 
 Then relaunch the game, again from the launcher, not steam.
